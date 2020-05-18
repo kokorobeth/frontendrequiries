@@ -1,0 +1,82 @@
+Front End Web developer
+========================
+1. Internet
+	- How does the internet work?
+	- What is HTTP
+	- Browsers and how they work
+	- DNS and how it works
+	- What is domain name
+	- What is hosting
+	
+2. HTML
+	- Lear the basics
+	- Forms and Validations
+	- Conventions and best practices
+
+3. CSS 
+	- Learn the basics
+	- Making layout (Float, Positioning, Display, Box model, CSS Grid, Flex Box)
+	- Responsive design and media queries
+
+4. JavaScript
+	- Syntax and basic constructs 
+	- Learn DOM Manipulation
+	- Learn Fetch API / Ajax (XHR)
+	- ES6+ and Modular JavaScript
+	- Understanding the concept hoisting, Event Building, Scope, Prototype, Shadow DOM, Strict 
+
+5. Version Control System
+	- Basic using of Git
+	- Repo hosting service (GitHub)
+
+6. Web Security Knowledge
+
+7. Package managers
+	- npm
+	- yarn
+
+8. Build Tool
+	- Task Runner 
+		- npm script
+	- Modul Bundlers 
+		- Webpack
+
+9. Pick a Framework
+	- React.js --> Redux
+	- Angular.js --> Rxjs & NgRx (optional)
+	- Vue.Js --> Vuex (optional)
+
+10. Modern CSS 
+	- Styled Components 
+	- CSS Modules 
+
+11. Web Components
+
+12. CSS Framework
+	- Reactstrap
+	- Bootstrap
+	- Material UI 
+
+13. Testing your Apps (Learn the difference between unit, integration, and functional tests and learn how to write them with the tools listed below :
+	- Jest
+	- React-testing-library
+	- Cypress
+	- Enzym
+
+14. GraphQL 
+	- Apollo
+	
+15. Mobile Application 
+	- React Native 
+
+16. Static Site Generator
+	- NextJs
+	- GatsbyJs
+	
+17. Desktop Application
+	- Electron
+	
+18. Web Assembly
+
+19. Keep Learning.....................................
+	
