@@ -14,7 +14,7 @@ Front End Web developer
 	- Conventions and best practices
 
 3. CSS 
-	- Learn the basics
+	- Learn the basics (16.30)
 	- Making layout (Float, Positioning, Display, Box model, CSS Grid, Flex Box)
 	- Responsive design and media queries
 
