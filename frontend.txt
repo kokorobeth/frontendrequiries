@@ -14,7 +14,7 @@ Front End Web developer
 	- Conventions and best practices
 
 3. CSS 
-	- Learn the basics (learn text, border, margin, inline etc --> meneruskan)
+	- Learn the basics (navbar ==> vertical & horizontal)
 	- Making layout (Float, Positioning, Display, Box model, CSS Grid, Flex Box)
 	- Responsive design and media queries
 
@@ -22,7 +22,7 @@ Front End Web developer
 	- Syntax and basic constructs 
 	- Learn DOM Manipulation
 	- Learn Fetch API / Ajax (XHR)
-	- ES6+ and Modular JavaScript
+	- ES6+ and Modular JavaScript (basic es6 const, array object etc)
 	- Understanding the concept hoisting, Event Building, Scope, Prototype, Shadow DOM, Strict 
 
 5. Version Control System
