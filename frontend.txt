@@ -19,7 +19,7 @@ Front End Web developer
 	- Responsive design and media queries
 
 4. JavaScript
-	- Syntax and basic constructs 
+	- Syntax and basic constructs (intro)
 	- Learn DOM Manipulation
 	- Learn Fetch API / Ajax (XHR)
 	- ES6+ and Modular JavaScript (basic es6 const, array object etc)
