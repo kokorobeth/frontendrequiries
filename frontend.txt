@@ -22,7 +22,7 @@ Front End Web developer
 	- Syntax and basic constructs (intro)
 	- Learn DOM Manipulation
 	- Learn Fetch API / Ajax (XHR)
-	- ES6+ and Modular JavaScript (basic es6 const, array object etc)
+	- ES6+ and Modular JavaScript (basic es6 const, array object etc) --> lear array, object
 	- Understanding the concept hoisting, Event Building, Scope, Prototype, Shadow DOM, Strict 
 
 5. Version Control System
