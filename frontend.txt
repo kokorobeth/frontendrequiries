@@ -14,7 +14,7 @@ Front End Web developer
 	- Conventions and best practices
 
 3. CSS 
-	- Learn the basics (navbar ==> vertical & horizontal) masi ngulik
+	- Learn the basics (navbar ==> vertical & horizontal) :: belajar di progte
 	- Making layout (Float, Positioning, Display, Box model, CSS Grid, Flex Box)
 	- Responsive design and media queries
 
