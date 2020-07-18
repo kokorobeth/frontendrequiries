@@ -9,7 +9,7 @@ Front End Web developer
 	- What is hosting
 	
 2. HTML
-	- Lear the basics (memperdalam)
+	- Lear the basics (masih memperdalam)
 	- Forms and Validations
 	- Conventions and best practices
 
